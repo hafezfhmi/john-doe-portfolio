@@ -1,27 +1,41 @@
-# Codealong - Portfolio website
+# john doe portfolio
 
-## Table of contents
+A portfolio website from [React Portfolio Website Tutorial From Scratch part 1](https://youtu.be/o3IP5HeFRO0?si=OOL7Ci35ow-I0VlG), [React Portfolio Website Tutorial From Scratch part 2](https://youtu.be/9wdErl1gA4E?si=NtfFARKJirgfen1q)
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [Useful resources](#useful-resources)
+## Tech Stack
 
-## Overview
+**Client:** React
 
-### Screenshot
+## Run Locally
 
-![screenshot1](./resources/screenshot/screenshot01.png)
-![screenshot2](./resources//screenshot/screenshot02.png)
+Clone the project
 
-## My process
+```bash
+  git clone https://github.com/hafezfhmi/john-doe-portfolio.git
+```
 
-### Built with
+Go to the project directory
 
-- [React](https://reactjs.org/) - JS Frontend library
+```bash
+  cd john-doe-portfolio
+```
 
-### Useful resources
+Install dependencies
 
-- Source Tutorial: [Click here (Part 1)](https://www.youtube.com/watch?v=o3IP5HeFRO0&list=LL&index=3&t=5764s)
-- Source Tutorial: [Click here (Part 2)](https://www.youtube.com/watch?v=9wdErl1gA4E&list=LL&index=2)
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
+## Screenshots
+
+![App Screenshot](./resources/screenshot/screenshot01.png)
+
+## Demo
+
+https://john-doe-portfolio.hafezfhmi.com
